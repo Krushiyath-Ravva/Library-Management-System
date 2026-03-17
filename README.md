@@ -69,4 +69,4 @@ The system uses SQLite3 to store:
 
 ```bash
 python main.py 
-- check path "C:\......\Library Management System> "
+- check path "C:\......\Library Management System> ""# Library-Management-System" 
